@@ -470,7 +470,7 @@ All objects have prototypes, except for the **base object**. The base object is 
 
 ---
 
-###### 15. What's the output?
+###### 15. What is the output?
 
 ```javascript
 function sum(a, b) {
